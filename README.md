@@ -46,7 +46,7 @@ const xalman = {
 
 <br/>
 
-I'm Xalman, a developer focused on building APIs, Messenger bots, automation systems, web utilities, and media tools.
+I'm Xalman from Bangladesh, a developer focused on building APIs, Messenger bots, automation systems, web utilities, and media tools.
 I love turning ideas into practical systems that people can actually use. 🚀
 
 <br clear="both" />
